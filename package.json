@@ -1,11 +1,11 @@
 {
-  "name": "CIS197-React-HW",
+  "name": "Kwak",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Devesh Dayal",
+  "author": "Kwak",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-jshint": "~0.6.3",
