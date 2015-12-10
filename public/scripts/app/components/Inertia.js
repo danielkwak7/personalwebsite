@@ -24,7 +24,7 @@ define(function (require) {
               width={300} height={225}/>,
             <p className="About container1"> <br/> 
             Inertia is the continuation and development of my PennApps XII hack. The main<br/>
-            premises of the hackathon"'"s project was to create a wifi-enabled motion detecting <br/>
+            premises of the hackathon's project was to create a wifi-enabled motion detecting <br/>
             device that had multiple API endpoints for software engineers to easily hack on. <br/>
             After the hackathon, we were accepted as one of 6 teams out of over 50 applicants<br/>
             for the PennApps Accelerator. Through this organization we were given $1000 to <br/>
