@@ -21,7 +21,7 @@ define(function (require) {
         if (this.state.on === false) {
           this.state.tailors.push(
             <img id="tailors" className="image container1" src={"./portfolio/PortfolioPic-01.png"} 
-              width={300} height={225}/>,
+              width={300} height={225}/>,  
             <p className="About container1"> <br/> <br/> 
             Tailors+Madmen is a customizable watch company that I co-founded the spring <br/>
             of my Sophomore year. It has since grown from a seed fund of $2550 to an <br/>
@@ -30,7 +30,7 @@ define(function (require) {
             how to efficiently use analytics and metrics to reduce costs significantly. <br/>
             Most of our funds were dedicated to sampling, so all of the marketing and user <br/>
             acquisition was carefully measured based on key indicators of conversion and margins.<br/>
-            Check out more here: <br/><br/></p>,
+            Check out more here: <br/><br/></p>, 
             <img id="tailors" className="image container1" onClick={this.site}
               src={"./portfolio/tmlogo.png"}/>
           );
